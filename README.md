@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm **[Mouleswaran P]**
+# 👋 Hi, I'm **Mouleswaran P**
 
 ### Senior Full-Stack Developer · WordPress Engineer · UI/UX Designer · AI Builder
 
