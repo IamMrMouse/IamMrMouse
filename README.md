@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm **Mouleswaran P**
 
-### Senior Full-Stack WEB / APP Developer · WordPress Engineer · UI/UX Designer · AI Builder
+### Senior Full-Stack Developer · WordPress Engineer · UI/UX Designer · AI Builder
 
 <p>
   <a href="https://yourportfolio.com">
@@ -16,7 +16,7 @@
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Building+Modern+Digital+Experiences;Full-Stack+Web+Development;WordPress+%7C+UI%2FUX+%7C+AI+Development;From+Design+to+Deployment;Turning+Ideas+into+Production-Ready+Products" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Building+Modern+Digital+Experiences;Full-Stack+Web+/+APP+Development;WordPress+%7C+UI%2FUX+%7C+AI+Development;From+Design+to+Deployment;Turning+Ideas+into+Production-Ready+Products" />
 
 </div>
 
