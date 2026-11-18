@@ -8,10 +8,10 @@
   <a href="https://yourportfolio.com">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=FFD700" />
   </a>
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="[https://linkedin.com/in/yourusername](https://www.linkedin.com/in/mouleswaran-purusothoman-832b26275/)">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFD700" />
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:mouleswaran2897@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FFD700" />
   </a>
 </p>
